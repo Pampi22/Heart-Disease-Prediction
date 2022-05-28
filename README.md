@@ -28,9 +28,13 @@ The data was downloaded from kaggle. data link https://www.kaggle.com/datasets/j
 # Step Followed
 
 Data Analysis and visualization
+
 Feature Engineering
  - Data Cleaning
+
 Feature Selection
  - Checking for correlation and multicollinearity
+
 Model Building
+
 Model score evaluation
