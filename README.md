@@ -1,11 +1,11 @@
 # Heart-Disease-Prediction
-# Overview
+## Overview
 The main aim of this project is to predict that if a patient has heart disease or not based on various given features.
 
-# About Dataset
+## About Dataset
 This data set dates from 1988 and consists of four databases: Cleveland, Hungary, Switzerland, and Long Beach V. It contains 76 attributes, including the predicted attribute, but all published experiments refer to using a subset of 14 of them. The "target" field refers to the presence of heart disease in the patient. It is integer valued 0 = no disease and 1 = disease.
 
-# Content
+## Content
 Attribute Information: Columns descriptions as follows
 
 age : age in years
@@ -25,7 +25,7 @@ target : 1 or 0, 0 = no disease and 1 = disease.
 The data was downloaded from kaggle. data link https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 
-# Step Followed
+## Step Followed
 
 Data Analysis and visualization
 
